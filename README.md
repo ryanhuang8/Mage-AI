@@ -1,2 +1,2 @@
 # Mage-AI
-Medical cAse report GEnerator (MAGE) AI
+## Medical Case Report Generator (Mage) AI

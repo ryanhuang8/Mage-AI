@@ -16,12 +16,22 @@ import os
 
 load_dotenv()
 
+# TODO: Remove duplicates (lines recorded twice)
+'''
+
+Possible solution:
+- Remove punctuations
+- String compare with .lower() of previous line
+
+'''
+
+
 ASSEMBLYAI_API_KEY = os.getenv("ASSEMBLYAI_API_KEY")
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-OUTPUT_FILE = "transcript_log.txt"
+OUTPUT_FILE = "../transcripts/transcript_log.txt"
 
 def append_to_file(text: str):
     """Appends text to the transcript file."""

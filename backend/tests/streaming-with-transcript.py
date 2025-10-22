@@ -13,6 +13,7 @@ from assemblyai.streaming.v3 import (
     TurnEvent,
 )
 import os
+import re
 
 load_dotenv()
 
@@ -25,11 +26,11 @@ Possible solution:
 
 '''
 
-
 ASSEMBLYAI_API_KEY = os.getenv("ASSEMBLYAI_API_KEY")
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
+prev_line = ""
 
 OUTPUT_FILE = "../transcripts/transcript_log.txt"
 
@@ -44,11 +45,16 @@ def on_begin(self: Type[StreamingClient], event: BeginEvent):
     append_to_file(f"\n--- {msg} ---\n")
 
 def on_turn(self: Type[StreamingClient], event: TurnEvent):
+    global prev_line
     text = event.transcript.strip()
     if text:
         print(f"{text} ({event.end_of_turn})")
         if event.end_of_turn:
-            append_to_file(text)
+            cleaned = re.sub(r"[^A-Za-z0-9\s]", "", text).lower()
+            print(cleaned, 'cleaned', prev_line)
+            if cleaned != prev_line:
+                prev_line = cleaned
+                append_to_file(text)
 
 def on_terminated(self: Type[StreamingClient], event: TerminationEvent):
     msg = f"Session terminated: {event.audio_duration_seconds} seconds of audio processed"

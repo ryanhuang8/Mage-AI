@@ -17,15 +17,6 @@ import re
 
 load_dotenv()
 
-# TODO: Remove duplicates (lines recorded twice)
-'''
-
-Possible solution:
-- Remove punctuations
-- String compare with .lower() of previous line
-
-'''
-
 ASSEMBLYAI_API_KEY = os.getenv("ASSEMBLYAI_API_KEY")
 
 logging.basicConfig(level=logging.INFO)
@@ -47,14 +38,40 @@ def on_begin(self: Type[StreamingClient], event: BeginEvent):
 def on_turn(self: Type[StreamingClient], event: TurnEvent):
     global prev_line
     text = event.transcript.strip()
-    if text:
-        print(f"{text} ({event.end_of_turn})")
-        if event.end_of_turn:
-            cleaned = re.sub(r"[^A-Za-z0-9\s]", "", text).lower()
-            print(cleaned, 'cleaned', prev_line)
-            if cleaned != prev_line:
-                prev_line = cleaned
-                append_to_file(text)
+
+    if not text:
+        return
+
+    print(f"{text} ({event.end_of_turn})")
+    if not event.end_of_turn:
+        return
+
+    cleaned = re.sub(r"[^A-Za-z0-9\s]", "", text).lower()
+
+    if cleaned == prev_line:
+        # Remove last written line and replace it
+        try:
+            with open(OUTPUT_FILE, "r+", encoding="utf-8") as f:
+                lines = f.readlines()
+                # Remove any trailing blank lines before last text
+                while lines and lines[-1].strip() == "":
+                    lines.pop()
+                if lines:
+                    lines.pop()  # Remove last transcript line
+                f.seek(0)
+                f.writelines(lines)
+                f.truncate()
+            print("🧹 Removed previous duplicate line.")
+        except FileNotFoundError:
+            pass
+
+        # Append the new line
+        append_to_file(text)
+
+    else:
+        # Normal case: write if it's new
+        append_to_file(text)
+        prev_line = cleaned
 
 def on_terminated(self: Type[StreamingClient], event: TerminationEvent):
     msg = f"Session terminated: {event.audio_duration_seconds} seconds of audio processed"

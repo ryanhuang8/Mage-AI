@@ -3355,3 +3355,80 @@ Cruising.
 
 === Session Ended ===
 
+
+=== New Session Started ===
+
+
+--- Session started: ba5e94ec-021d-4e1e-baa9-ede6ddb06bc7 ---
+
+There are a few different kinds. There's pre renal, renal, and post renal. Prerenal is often caused by things like dehydration, hemorrhage, heart failure, sepsis. Renal can often be caused by nephrotoxic drugs, infection, autoimmune diseases,
+and then post renal is usually just an obstruction of urinary tract and this is pretty i don't want to say common but it is evident in child hospitalizations about maybe four in one thousand and this can lead to extinct hospital stays higher mortality preventive kidney damage and even increased risk of chronic kidney disease
+And then post renal is usually just an obstruction of urinary tract. And this is pretty, I don't want to say common, but it is evident in child hospitalizations about maybe 4 in 1,000. And this can lead to extinct hospital stays, higher mortality, preventive kidney damage, and even increased risk of chronic kidney disease.
+The leading causes of this in pediatric patients are usually kidney ischemia, exposure to nephrotoxic medications, and sepsis, although often it results from a combination of multiple factors.
+And the reason that this research is so important is because this can look very different in children compared to adolescents. I mean, compared to adults, especially because children may be asymptomatic early on.
+So the current diagnostic tools rifle is one of them. One of the main ones. There are a couple others.
+And it stands for risk, injury, failure, loss and stage renal disease. And what this kind of talks about is looking at a decline in that gfr.
+Often through a blood test.
+and then you're looking for an increase in the serum creatinine levels this can be an issue because this is a late biomarker meaning it could take up to forty eight hours to measure this concentration after your gfr decreases so it's not really immediate information
+And then you're looking for an increase in the serum creatinine levels. This can be an issue because this is a late biomarker, meaning it could take up to 48 hours to measure this concentration after your GFR decreases. So it's not really immediate information.
+It can also be in precise it varies in chronically ill children, and it can be hard to interpret in patients with and low muscle mass.
+It also requires multiple blood drops, which is just not ideal for children and adolescents.
+And then you're also looking at a decreased year in output.
+And this can be difficult to measure when there's urinary incontinence. So maybe someone with a disability who may maybe experiences urinary incontinence or if children are just too young to measure this way, also often requires bladder catheterization and intense hourly monitoring. Literary, which again is just not ideal for adolescents.
+So one of the biomarkers that we're talking about today is angel, or neutrophil gelatinous associated lycorin. And what it is is a protein that is secreted by means cells such as nutritionals, macrophages, end dendritic cells,
+Production is used for simulating response to inflammation and for aki, we see that it is released after tubular damage and during the renal regeneration processes. The main measures are in urine and plasma. Clinically, it has been adapted in the form of a urine dipstick test.
+As for the effectiveness as a diagnostic tool,
+we see that there is an elevated serum in urine and gals that are observed twenty four hours earlier than the increase in creatinine which is one of the current methods of measurement and no security was found between the plasma and ghals and urine engel and inca detection which means it's really up to clinical discretion for which one that they're opting to use and then invasive option in clinical practice and can help predict the needs for kidney support therapies and also identify patients who are at the highest risk mortality
+We see that there is an elevated serum in urine and gals that are observed 24 hours earlier than the increase in creatinine, which is one of the current methods of measurement. And no security was found between the plasma and ghals and urine ENGEL and INCA detection, which means it's really up to clinical discretion for which one that they're opting to use and then invasive option in clinical practice and can help predict the needs for kidney support therapies and also identify patients who are at the highest risk mortality.
+another effective biomarker for the pediatric population that we looked at was kim one or kidney injury molecule one is a trans membrane glycoprotein that is expressed at low levels and healthy kidneys but it becomes very strongly upregulated when there's any sort of tubular injury
+Another effective biomarker for the pediatric population that we looked at was KIM1, or kidney injury molecule.1 is a trans membrane glycoprotein that is expressed at low levels and healthy kidneys, but it becomes very strongly upregulated when there's any sort of tubular injury.
+km one is typically measured in urine it can also be measured in blood but it's typically measured in urine and it's a non invasive more practical way to assess for early tubular injury
+Km1 is typically measured in urine. It can also be measured in blood, but it's typically measured in urine and it's a non invasive, more practical way to assess for early tubular injury.
+And it can increase even in the absence of clinical symptoms, which makes it especially useful for detecting some clinical tubular injury before traditional lab work can.
+And it's especially useful for detecting drug induced nephrotoxicity. So damage to the kidneys caused by drugs or chemicals.
+Which makes it a valuable early marker for a ki from contrast agents and also lots of chemo drugs.
+It may help monitor cumulative, never toxicity in pediatric cancer patients. As with more chemo cycles, these levels tend to rise.
+and the kim one performance improves when used alongside ngao so that allows for a more complete and accurate assessment for early acute kidney injury in pete's patients
+And the Kim1 performance improves when used alongside Ngao, so that allows for a more complete and accurate assessment for early acute kidney injury in Pete's patients.
+Okay, now we're gonna get into some of the strengths and limitations of Aki biomarkers. So first, some of the strengths. What is this actually good at? It's really good for earlier detection. Right. So these biomarkers can catch damage before big kidney, like, functional loss. Right. And then it's also. Embedded specificity. Sorry. So these new mile markers can defect? Specific signs of renal stress leading to more effective and efficient treatment. Okay.
+But sometimes new treatments can have some limitations which include that there's limited amount of data, right? So we got these treatment from adults first and so now they're saying we can use AKI biomarkers and children. However, the number of high quality trials in children are limited and lower than the level biomarkers. For adults, which just means that we don't have a lot of information on the child's aspect, but we're still getting there and doing more research.
+There's also a little bit of uncertain clinical utility. And that just means that once you have these biomarkers, people are just kind of like, now what do we do now?
+But that's like just trying to figure out what we are going to do. And another limitation is that it can be kind of expensive, right?
+And so patients might be a little more leery into investing all this money in your research for biomarkers if the doctors aren't really sure how to move forward with the procedure of having the child say, okay, you have these biomarkers. What are we going to do now?
+Okay, so now I'll wrap up our discussion with the conclusion and then also next steps.
+Next steps for the research.
+So first.
+Okay. Yeah. So, first, combining the biomarkers together helps us increase sensitivity, increase specificity, and that's really helpful when it comes to early predictions that we can help before there's, like, really serious kidney functional loss, and then you can intervene in time.
+and one of the examples from the paper there are a lot of different examples because they were combining different studies but and now igf ep seven and tinp two those two together were really good with detecting
+And one of the examples from the paper, there are a lot of different examples because they were combining different studies, but and now IGF, EP7 and TINP2. Those two together were really good with detecting.
+Acute kidney injury. And then on top of that, acute injury is also a multifactorial condition. That means that depending on the cause for the injury, whether it's somebody had cardiac surgery or sepsis patient, the usefulness of different biomarkers varies.
+So then that leads to another point of a multi marker approach. So when it comes to these biomarkers,
+They're considering in the future, using a panel of them so that to increase the diagnostic accuracy, so that depending on the cause, you can look at maybe three, which would be for your high end, more specifically.
+And then going back, expanding the research for greater generalizability. As Gabby was saying, there is not a lot of research applying to the pediatric fuel. So using more low income minority people, when we see that this is a really expensive diagnostic tool, is then on top of that increasingly accessibility so that we want to put resources so that the results are actually, then an equitable fashion.
+And on top of that, lastly, continuing the search for a novel biomarker with greater detection and greater ability to find out who has acute kidney.
+all right these are references nine hundred three
+All right, These are references 903.
+Excellent.
+I have to ask. We don't really have time for questions. Sorry. But I get to ask one because I'm the teacher.
+How. And all of pediatrics and all the land. Pediatric. How did you guys come up with this?
+If somebody's doing research on it. No.
+I found.
+It because.
+My friend.
+Was giving me lg.
+And.
+I asked.
+You what?
+I talked on paragraph.
+Nice.
+All right. That's a good, honest answer.
+I have never heard of this in my life.
+I don't know.
+I always get a grammar. So that's why I was, like, if I was, like, racking my brain, like, what can I talk about in peach?
+Never in a million years, but I love it. Thank you.
+
+--- Session terminated: 590 seconds of audio processed ---
+
+
+=== Session Ended ===
+

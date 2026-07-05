@@ -1,0 +1,289 @@
+Speaker A: Should I be in the frame initially or like.
+
+Speaker B: Yeah, Washed.
+
+Speaker A: Washed.
+
+Speaker B: I look like a crimp bomb.
+
+Speaker A: What are you about to be if you don't get the yc? Oh, low key.
+
+Speaker B: Wait, that's kind of. That's kind of nice.
+
+Speaker A: It just. I don't like, like it looks kind
+
+Speaker B: of like, like, like I look hunting. Honestly, that's even. Okay.
+
+Speaker C: Hey, can you hear. Hear me okay?
+
+Speaker B: Yeah, I can hear you. Can you hear me?
+
+Speaker C: Yeah, yeah, sorry, I'm on my phone right now.
+
+Speaker D: I'm outside, so I don't know if
+
+Speaker C: my camera will be on, but hopefully if you guys can hear me okay, it'll all be good.
+
+Speaker B: I see. Yeah, that like. Yeah, that's totally cool. How you been?
+
+Speaker C: How's it going?
+
+Speaker D: How's it going?
+
+Speaker B: I was going not too bad. I mean, like, like it's my like senior year and I haven't really been like. Honestly, I just have like a lot of time, so I've been just trying to like grind. Trying to get like into the startup space and stuff like that and. Yeah, yeah, I was on LinkedIn. I was, I noticed that like you made it to YC and I was like, wait, like that's like kind of insane. And so.
+
+Speaker D: Yeah, yeah, yeah, no, it's been, it's been a crazy, like, it's been crazy for sure. I think this past year and now is like a very good time to be building. Yeah, I saw you or I saw the name on the invite was like moonstack. What are you guys working on right now?
+
+Speaker B: Oh, yeah, so we've been working on like a couple of things like just like this semester and last semester. I'll just like give you like the whole rundown. So we first started off like, because like we are like in the visual computing lab. And so I have like a bit of background in like video gen and like a bit of like, like nerfs, if you know what that is.
+
+Speaker D: Yeah, yeah. Oh, I don't, but.
+
+Speaker B: Oh, okay. So like it's basically. I mean, it's like taking like images and like reconstructing things in like 3D in a way. But yeah, so like I have like some like background in computer graphics. And so this is my friend over here, his name is Ryan.
+
+Speaker A: Hi, nice to meet you.
+
+Speaker B: Yeah. So the two of us, like we decided to create like an AI video gen explaining company.
+
+Speaker D: Yeah.
+
+Speaker B: And we actually submitted that to YC and got the interviews. We flew over to like to California and stuff like that, but then we got rejected. They said that like we did not have, like, a good, like, market space fit. And also, like, our technical emote was not, like, the greatest, and it kind of made sense. Like, you know, we didn't know we were doing what we were doing. And obviously, like, they had, like, a lot of feedback for us on, like, what we can improve on. And so we're kind of iterating. We tried to go into, like, the research space a bit more to, like, develop the technical moat. And honestly, like, I don't think we did what we were supposed to do. And so we applied, like, dispatch for, like, spring 26, and we didn't get to interview Gotcha. And so now we're trying to create Moonstack. Okay. Basically, we had another name, but then we were like, all right, we're, like, pivoting so many times. We need to create basically a generic name that doesn't really mean anything. And we're like, okay, let's just change it to Moonstack. Because we can be any company we want if we have a name that can kind of fit to any company. And right now, what we're working on is we're trying to basically create, like, a marketing agency. I can kind of go through the thought process because, like, we're like. We think that we can create, like, really good images because, like, we have, like, experience in that. And so we're talking to, like, these different companies about, like, how we can help them develop their brand. And we realized that while we're trying to develop their brand, we can also, at the same time, like, export their brand to, like, other companies in a way. So, like, kind of, like, show off the brand. And we were like, well, that's basically marketing. And so we're thinking of, like, trying to create, like, a. Like, a marketing stack where we help people all the way from, like, creating images all the way to, like, showing off the images on, like, social media, like, ad space, all those different things. So that's what we're trying to work on right now. And that's what Moonstack is.
+
+Speaker D: Okay. Yeah, that's. That makes sense. I know there are a couple companies from. Well, I know there are companies that are making a lot of money doing this. I know there's one company from our batch doing something similar called Lapis. I think there are URLs, like, try lapis.com. it's like, lapis.
+
+Speaker C: I think that makes sense.
+
+Speaker D: And I think, like, the biggest thing is probably just, like, starting to make some, like. I mean, the idea is probably, like, the idea doesn't really matter that much, you should just go and try to make some money with it. And then, I mean, if you guys have a lot of traction or you guys basically, if you can, like FOMO yc, like they'll probably invest is my thought at least. Like, YC is basically just. Yeah, I think the name of the game is just trying to basically give YC FOMO or like convincing YC that you're gonna do this thing, like regardless whether or not you get their permission. And like you are like either have other fund, like you have other funding offers or like you're starting to make money or you have some traction, et cetera, et cetera. But yeah, I'm curious, what questions can I answer? How can I be helpful? That's my sort of initial thoughts on it, for sure.
+
+Speaker B: Oh yeah, that makes a lot of sense. And yeah, I like to dive more deeply, but maybe later. But before that I was kind of mostly scrolling on LinkedIn. I did take a look at your website, but also I want to ask, what does your company do and how exactly did you kind of pitch it to yc? I'm kind of curious.
+
+Speaker D: Yeah. So right now what we're working on is like a design focused website, website builder. So I'm actually pretty similar to like I would, I think like the comparable companies would probably be like lovable or like replit. But the issue is that those outputs are typically very ugly and where we kind of have background working on design tools. And my co founder Michael ran his own design firm for like four or five years in high school and undergrad. So it's like we want to create like beautiful websites. Which is sort of funny that YC told you guys that you had no moat because I feel like people make a lot of money doing things with node moats all the time. But yeah, that's sort of a sidebar. What we initially applied with was a design tool that we were working on that was like completely different from what
+
+Speaker C: we were working on now.
+
+Speaker D: It was called Moot board and it was basically like Pinterest on a canvas. And it was for designers because typically a part of the design process is that a designer, whether that's a graphic designer or product designer, when they start a new project, they need to create these things called mood boards. And the way they do it right now is pretty inefficient. My co founder was a designer and always hated that process. So we built a tool to make it easier. And I think yz, they want to fund us. Our partners with Aaron Epstein and David Leap and Aaron was the design partner and he actually didn't like our idea very much. But I think like a combination of factors made it so that they funded us anyways. It was like we had competing offers from like a few other funds for money. And also we had like a somewhat large like a 10k contract signed with a, like a, like a medium sized design firm. And also like we told them like
+
+Speaker C: we had already dropped.
+
+Speaker D: Yeah, we were already like going to do it no matter what in the fall. And also like there are some other things like I'm trying to think now. Yeah, we had explained that we had been working on it for a while and like the demo I think was, I mean the product was very polished at that point and we were like selling it. And so like a combination of those factors. I think even though they didn't really like the idea, basically like they probably felt like it was a decent idea to invest in us because like I think our profiles are like pretty legible slash understandable. It's like I, you know, like it's probably like similar to you guys getting interviews like Ivy League dropout, like tech backgrounds. They're working on an idea that has some traction, like seems like it'd be a safe bet to fund them.
+
+Speaker C: So I think that's probably why we
+
+Speaker D: got funded in the first place. And then like once we got into the batch, we started working on a separate idea because we realized that the like average like the way that we would build, build this product, it was just like people weren't willing to pay for it. Like designers are like broke and also they don't like AI tools that much. And so we didn't think designers like the market was very large basically and it was a very tough sell. And so we pivoted to building. So basically we pivoted to building like replacing the designer entirely. And so we were like thinking we should build a full stack design agency, like an AI native design agency. And we worked on that and made I think a decent amount of money before demo day and we raised some money after demo day. But we realized after we raised the issue was that the full stack like agency approach is like, I mean I think YC likes it. They like really push their companies to go pursue that. The issue is that it's just like I don't think the AI tools are good enough and you end up getting stuck doing a lot of the actual agency work. And so it was really hard for us to both work on the product and also manage a dozen client in slack on tight timelines. And so we ended up just getting sucked into the client projects. And it was just like running an agency which was probably not scalable past a million ARR, even if we were very aggressive about it. And it would probably be like the more people we hire, the more revenue we would get. But it would be like a linear curve, not exponential curve. And so we were like, okay, we should probably build something that's more scalable. I think the SaaS version of the agency is probably a website builder, and that's what we're working on now. We released it to friends and YC batches, the current batch and also our batch. We found it to be useful for spinning up landing pages. But the larger vision is that we want to be able to generate all sorts of design very fast and basically think of an AI native canva maybe, or a framer if you've used it. So that's kind of a brief synopsis on what we've been working on. And I can like elaborate on any part of that if it's anything that's
+
+Speaker C: unclear,
+
+Speaker B: do you think?
+
+Speaker A: I guess like, you know, at our current stage we're trying to reach out to companies and we're trying to get to the stage of like getting people to. Getting like people to use our product, I guess, like even asking like their pain points and trying to like understand how we can contribute to them. I was kind of curious, like, how did you get like that $10,000 contract initially? How did you get that initial traction when you applied to yc?
+
+Speaker D: Yeah, so for us it was a little bit unique. My co founder, Michael was like, sort of like a. He has a small following on Instagram and he makes like design related content. And so he had like, whatever, like 40k subscribers or like followers. And he posted a lot about design on Instagram. And we were at Columbia, so we were in New York and also all the major design firms were in New York. And so what we would do is that we would just DM all these like, designers or these like whoever was running the design firm. And we were like, hey, can we tour your office? And then we show up to their office and then when we get there, we're actually like, hey, we're actually here to sell the software to you. Like, can we demo the product? And then we just like, Bruce Flores
+
+Speaker C: demoed it to like a bunch of
+
+Speaker D: people and then we got like warm interest to folks. Because even if folks were like, oh, like, you know, I don't think we would be a good fit for this, but I think this other person might be. We talked to like a ton of people and eventually there's like a large. Yeah, it was like a larger design firm and they're like, okay, we're interested in like piloting this. But I mean, in retrospect, I think the real reason they're interested in it was less because they cared about the product in that moment, but more because it was like we were basically offering to build any like feature they wanted. And so I think they were hiring us more as like software consultants. Not really for the products, but I mean, I think that's the way to start. You just kind of need to brute force it and ideally that's why you have some like. I think that's why YC is like, it's nice to have some like, you know, some edge in this market or like you understand this market better because it's easier to build a product when you like have felt the pain, point yourself or you know, a lot of people in the industry, like, so on and so forth.
+
+Speaker A: I see.
+
+Speaker B: No, that makes sense. That makes a lot of sense. Like, and I feel like, you know, it sounds like, like it was like a, like a, like a product fit in terms of like experience and like also like your technical background. And so I was kind of curious, like I was wondering, like, for us we're trying to basically like get to that level. But the thing is like, I guess like we don't really have like the like the, the background behind it. So I was wondering like if you were like trying to do this, like if you like talk to like people in yc, do you know like how like they were able to address that or like, do you think that like most people in YC did have the market fit before they went into trying to create the product?
+
+Speaker D: There's sort of a huge variety within YC just because the batches are so big. I think there are some people that come into the batch having worked on their company for two years and they have already like, you know, 100K, a couple hundred K ARR or something like that. There are folks that apply like us with an idea and a little bit of traction and then they try to grow really fast during YC and, and then I think there are folks that have like, they basically, you know, only start working on the startup because they get into yc. But usually I think those sorts of folks have like really great backgrounds and YC is willing to admit them just on the fact that they were working on like super interesting thing or like, we're doing, you know, research at a very, very prestigious firm and because of that, like, they're willing to fund them even if they don't have like a product yet. But I think like, for. I mean, based on my read, so you guys got an interview before. So I mean, probably just like based on your profile, it is like. I mean, I think it may like, it is not like a weird profile at all. And I think like, they definitely like getting an interview again, I don't think should be too difficult. I think the name of the game for you guys should probably just be to like a point where you want to be at is probably to have some sort of traction and like, maybe get offers for like funding from like some other programs. Like, I think like a few that come to mind are like Z fellows, a four, like Neo, a 16, Z speedrun, stuff like that. Sorry, I'm on the pier if you can hear the bells.
+
+Speaker B: Yeah, that makes sense. Yeah, I think right now like, we're definitely gonna apply to like, at least like neo Z fellows, A6 and Z. And like, you know, we'll see, we'll see how it goes and hopefully we'll be able to get like, you know, competing offers like you. If not, we'll like, definitely like work for like yc. But I noticed that you're talking about how like right now we should try to. What is it? Like, like figure out like who we can talk to, like, try to get those like, contracts and stuff like that. And I was wondering like, in terms of that, like, what do you think is like the best way that we can like pitch the product or like, what is like a good way to kind of market like this like, marketing company? I guess, like from your experience.
+
+Speaker D: Yeah, to be. I guess just to clarify, so from what I'm imagining about the company right now, it's like you guys can create, like if I'm scrolling on Instagram and I get an ad for like, I don't know, like, like some supplement and it'll be like, there'll be like an Instagram ad and it'll be like a, you know, buy the supplement, like 40% off and it's like a graphic. Like, is that what you guys are working on? On making or like, what are the. Yeah, like what specifically are you guys working on generating?
+
+Speaker B: Yeah, I guess, like, so right now what we're trying to do is in a way, like, we're also trying to like create like a full site company. So like, like, I guess, like, so what we want to do is we want to basically like, look at like, you know, other people are doing. And we want to also see like, what, like events or what like, demographics that could like, be a good fit for like the brand. For example, like, let's say that we're looking at, you know, like, like a match company, then maybe for like Valentine's Day or for like, you know, like New Year's, then it might be nice to like put out some advertisement because, like, a lot more people will be thinking about Matcha around that time. And like, not only are we trying to like generate like the images that you can put on for like the ads or, or like for your Instagram post, but we want to also be able to figure out those events and demographics. So like, just like, basically like, like once a company hires us, we want to be able to like, just like, like, just like let them say yes to the images and like, to like, the certain events that we want to like, help create their brand for. But besides that, like, everything else will just be like us doing the thing for them. That's like kind of like the direction we're trying to go to. But of course, like, we're also still trying to figure out direction. So just hearing that. If you think that there is a better direction, then also I'd love to hear it too.
+
+Speaker D: No, no, I think that makes a lot of sense. I think the way you can start
+
+Speaker C: with this is probably just thinking about what. Well, I think first is what ds, like warm beads that you can think of. And so I know we have some friends, the batch that we're doing like a LinkedIn ghost writing agency, basically. I mean, they're trying to. They're like productizing it, but like, yeah, they would just. They just like write LinkedIn posts or they like use AI to ghostwriting posts. And it like, helps with marketing to bring some like. And I think like all their first customers were like, one of them was like, like a lot of them are like ran. They're not tech companies. They're like, they were selling to this like souffle pancake shop near them that started making LinkedIn posts on the screw chain near them. They started selling to ghostwriters because ghostwriters would use their ghostwriting for the ghostwriters. And I think they got really creative with it. And I think basically you should think first of what are the easiest warm leads that I can get for someone like this? Marketing. And then the second thing I would think of is, well, I can speak for at least startups because, like, I'M running a startup and like if you guys cold emailed me, I can imagine like what I'd be willing to try. I think like just emailing a startup with like an example of an ad campaign that you could run for them that looks like, I don't know, you generated like 20, 20 samples of like what an ad look like and you're like, I'm willing to like, you know, let's, we can do a trial or like a pilot and you know, you can get like money back guarantee or like you don't have to pay anything up front and like, we'll only take a cut of like whatever you make based on inbound leads from this. Like, basically like make it as low friction for the person you're emailing as possible. And then I think the last thing is just, I don't know, we kind of had to get really creative with outreach because like cold emailing designers didn't really work.
+
+Speaker D: So we used Instagram a lot and
+
+Speaker C: if we did send emails, they had to be like really kind of wonky emails that were like clickbaity and you would click them and to it you actually get a response. Yeah, basically you kind of have to like brute force it. I know like the company that I'm thinking of that does something similar from our Bash Labis. This guy is like, he's like, both him and his co founder are from India and so like all their initial customers for like Indian companies is well and so like, I think you basically just need to like play to your strengths and like if you guys have access to companies from like Atlanta or something, like, it might be the move.
+
+Speaker B: Yeah, that's true.
+
+Speaker A: That's interesting.
+
+Speaker B: Definitely look into Atlanta. Maybe roll down.
+
+Speaker C: Yeah.
+
+Speaker D: But I mean, yeah, I think like,
+
+Speaker C: you just got to get some like points on the board. Like you gotta, you just gotta like prove that you can like this is something that will make some money and then from there it's like, it's a lot easier.
+
+Speaker B: I see.
+
+Speaker A: That makes a lot of sense.
+
+Speaker B: Yeah. And I guess like, oh, yeah, go ahead. I guess like that makes sense in terms of like what we can do right now. I guess like, I was like wondering like what was like kind of like the roadmap you tried to follow before the YC interview. Like to try getting the YC interview.
+
+Speaker C: Interview. Oh yeah. I mean, I think our process was super. It was like, we actually weren't planning on applying until like right before or like right before we did apply and then we applied, we got like a referral from A VC that we knew in the like Columbia ecosystem. And then so we got the interview the next day and then before the interview we just did like mock interviews with like five Columbia like YC founders that we knew. And the way they interview, I mean you guys have experienced it. It's like, it's, it's kind of interesting. Like they, it's 10 minutes, they'll like cut you off. Like you got to just give like as succinct answers as possible and like just be very confident and like the team chemistry has to be good. And I think yeah, basically like in the interview you need to like communicate the fact that you're going to be working on this no matter what. And if YC doesn't fund you now, they'll never be able to fund you. Because I think for yc, if they think that you are low agency or if you're like waiting for their permission to fund you, then they can just keep rejecting you and you'll keep coming back. And it's like zero risk for them because then they can just wait until you de risk the company yourself. But if you're like, okay, I'm about to drop out, I'm going to go full time on this or I'm already going full time on this. I have three competing offers that I will take. If I don't get YC and we're already at 10k MRR and we are growing 100% month over month, then they're like okay, well if we don't invest now then we're never going to get a chance to invest in them yet. And then it's a better bet for them to invest than potentially miss out on the next billion dollar company.
+
+Speaker B: Yeah, that makes sense. And honestly I feel like that's kind of interesting take because I feel like I've never heard of like the way saying it, it's like it's kind of, it's kind of like you're putting the pressure on them and making so that they have decide you or like you know, you don't make it.
+
+Speaker C: But yeah, I mean I think that's how a lot of folks like get in with no like pre product. Like they'll just have like a great background. Like I know some folks in the current batch that got in with no product and like no, they basically didn't have an idea either. They're just like we think we want to work on something like data related but they're like ex ML researchers at some like really hot series C and D startups. And then they were like, they had like a continuing offer from Speedrun that was like benyc and they were just like okay, like if we're not, if we're not, if you're not going to give us the money then we'll take it from somewhere else. Then you won't be able to fund us again. I mean obviously like you gotta like build a product and all these other things. But I think that also is probably a thought factor that people like don't talk about as much.
+
+Speaker B: Wait then can I ask like so wait, so you got like a competing offer from z fellows in a 16Z
+
+Speaker C: speedrun from afford Capital. Afford Capital did not apply to Speedrun.
+
+Speaker B: Yeah, then I guess like how did you get the offer from Afford?
+
+Speaker C: I think we, so for A4 we applied for a grant like early in the spring because we had been working on this for maybe five or six
+
+Speaker D: months before we like quit our summer
+
+Speaker C: internships and we're just like using our own money slash we like applied to a bunch of grants and so a 4 had, we had gotten like a 1k grant from a 4 and then as part of their grant program they'll like reach back out and be like hey, are you looking for more funding? And then we had like one interview and like they're like fund you? I think a 4 is like they like leased all their precede founders that we didn't end up taking it because the deal wasn't that good. And then for Z Fellows we had like some mutual connections with Corey. He was like run Z Fellows. And then we did the application and the typical Z fellows offer is 10k no strings attached. But actually if you are working on a real company they'll kind of rug pull you and they'll be like actually we're willing to give you more money but it has to be from equity against the industry. And then yeah, we interviewed and talked with Corey about that one. That was pretty much the process for both of those. So I think by some combination of doing the application obviously and then having some more connection talking to people in Columbia Network or I guess in your case the brand network again the startup ecosystem helps.
+
+Speaker B: Yeah, that makes sense. That makes sense. So yeah, it sounds like man that's kind of crazy. Like I feel like you know like, like when I was, when I was looking at it it sounds like I was like I was honestly like dang, like you got into yc. But it seems like like you know like it seems like more like a process where like you like had everything Under. Under your control. And, like, you were kind of like moving towards YC with, like, a goal in mind. That's pretty cool.
+
+Speaker C: I mean, I think, like, in retrospect, it kind of looks like. Yeah, at the time, he didn't know that we were. What we were doing. Like, our product was like, low key. Like, I don't think people wanted it low key. And like, we were. We quit our internships and we're like, you know, we all spent like 5 or 6k. Our own personal money, like, funding, like, our rents. Like, it was kind of a shit show at the time.
+
+Speaker B: But yeah, yeah, that makes sense. I feel like Loki. I'm trying to do like, the same thing, like, at this point, like, I want to, like, since I have the time, I want to make sure that I can, like, spend like the next, like four or five months trying to, like, you invest time to, like, get into the smart starter space, see if I can, like, do the same thing as you. But yeah, I think that those are, like, all my questions.
+
+Speaker A: Yeah, I think.
+
+Speaker D: Yeah, that makes sense.
+
+Speaker A: Wait. One thing I was actually kind of curious about because you mentioned Lapis and like, because you mentioned how you're pivoting into, like, pivoting, but you're changing more into like a software as a service, kind of like lovable instead of, you know, becoming an agency. I was kind of curious, like, how you're thinking about, like, competing companies and how you're kind of differentiating yourself from them. Because obviously we want to differentiate ourselves from Lapis.
+
+Speaker C: Yeah, I mean, I think it's, like, interesting because basically, like, when you talk to VCs, you have to, like, worry about all these things, like, oh, what is my moat? Like, what is the total addressable market? Like, when you're actually building a company, the only thing you really care about how can I grow the revenue number on the chart? And so basically, the product that we were working on before was the Mood Boards products, I think, was a very differentiated product. Like, there weren't that many things on the market. We were like, oh, yeah, we have, like, no competitors. This is great. But when you think about it, the reason we had no competitors is because people are low key, not willing to pay for this. It's like there's no market for it. And so basically the battle you need to. So in that case, the battle is like, okay, we're not sure if we're building something that people actually want and it's hard to sell and you need to convince people to buy it, et cetera, et Cetera. And then I think now we're kind of doing the opposite of that, which is that it's a very saturated market. People are willing to pay a lot of money for websites. We made 100k in a month and a half for the agency because people just pay a lot of money for a well designed website. And also you can kind of tell because there are multiple competitors that are huge companies in the space, like Lovable Replit and then also old companies like Squarespace, Wix, etc. And so like, you know, it's a huge market, you know, people want to pay for it. But now the battle is just like you need to basically get eyes on your products, like out distribute your competitors and like hopefully your product is also a little bit better, like also better than your competitors. But basically you just like pick your battles. So, so either you really struggle to build something brand new and convince people to like it or it's like a very saturated market and you just need to outcompete everyone and build either. You need to build a better product experience and also a better distribution curve than your competitors. And I think before we were working on something, I was like, okay, it was sort of technically difficult and also we weren't sure if people really wanted it and so we were thinking about it as okay. So actually our strength is that we think we're good designers ourselves and we can probably design this website builder product better than other people. We think the product design or the user experience can be a lot better. And so we should play to our strengths and build something that we know people want and just do it better than everyone else. So that was kind of scattered, but that was sort of the thinking that went through. Like why are we going to work on a website builder when there are like a million website builders already?
+
+Speaker A: Yeah, I think that makes sense. Like you either like out compete them in marketing it better or like you build to your strength. Like you're, you have a lot of intuition in the design space so you're kind of differentiating yourself that way. So I think that makes a lot of sense.
+
+Speaker D: Yeah, yeah. No, I mean, I think like,
+
+Speaker C: yeah, I think what you guys are picking is a big market, you know, that it makes like it makes sense that it makes money. Like there are a lot of other companies doing it. And so what you guys really need to do is it'll be like a distribution game.
+
+Speaker D: And also of course you need to
+
+Speaker C: build a product that's up to par or like a product that works. Of course.
+
+Speaker D: But I mean you guys are both technical, I think you guys are both studying cs, right?
+
+Speaker C: So hopefully that part should be not the hardest part.
+
+Speaker A: And actually you also said something interesting which is like, I guess an agency is hard to scale because if you build like a full stack agency, it's like there's so many problems, there's so many clients that have issues and it's hard to scale. It scales like linearly, not exponentially. And so that's why you're pivoting to like a software company. Like, because we were actually thinking of building an agency, do you recommend that we like instead build like a software as a service agent or software as a service company instead?
+
+Speaker C: I mean, it's kind of interesting because I think it depends on a few things. So the first thing is like, I
+
+Speaker D: think the full stack approach is more.
+
+Speaker C: It depends on the industry.
+
+Speaker D: So I think like there's some law
+
+Speaker C: firms and there's some like full stack accounting firms that are pretty good. And it's because like AI can do a lot of the legal work and a lot of the accounting work pretty well. And ultimately what you're paying for is like, like you just want it. You just want the document to be redlined. Like, I don't really care how it's done that much. I just want it to be done. There was like an objective evaluation of whether or not, okay, this contract has been written correctly. I don't care if an AI did it or not. But the issue we were running into with design is that people would pay us a lot of money, but they cared about how the work was being done. Like they were paying us for our pace basically. And so that wasn't scalable because for every project there's not an objectively correct way to design a website or design a brand identity. And so like they would really care about our opinion. And we have to do a bunch of back and forth and like think a lot about the brands.
+
+Speaker D: And so we'd have to do a
+
+Speaker C: bunch of labor basically, which we didn't think was scalable. The second thing is that even if it, I mean, I think it is scalable to an extent. And it also like, I think can make. Agencies can make a decent amount of money. Like the issue is that the agency model is very difficult to scale past a couple million and like annual recurring revenue, I think. And so like, if you're aiming to build like a lifestyle business and you just, I think you can become pretty rich doing that. Like, I know there's a company, a YC company called AwesomeIC from 2021 that basically is like a design agency. And they never raised money after they got the YC funding. I think they make like $5 million a year. And the founders are two like Ukrainian immigrants and they just like outsource hella work to Ukrainians back at home. And I'm sure they take home like a million or 2 million. Like they make a lot of money
+
+Speaker D: is what I'm saying.
+
+Speaker C: But it's like we just didn't really want to do it because it like you can become pretty rich but you can't build like a huge company. And then also it's like it's hella stressful. Like I don't want to deal with like clients.
+
+Speaker D: I was like we were waking up
+
+Speaker C: at 3am because clients would be slacking us like, oh, we're about to launch tomorrow. Like why is the website done? Yeah, it'd be like it was hella stressful. Like it's, it's, it was like at least when a client, at least when you're building a SaaS product and you get pinged at 3am because of a bug, once you fix the bug it's like, okay, I made the platform better for everyone. But we'd wake up at 3am to go work on a website for one person and then the project would be done and it wouldn't be recurring. And yeah, it was not great I think for the design for a model or maybe that the tools are. I don't think maybe the models are just like not good enough. But that's sort of our take or our experience doing the agency style.
+
+Speaker B: I see.
+
+Speaker C: But I know that we have friends that are doing agency style businesses that are doing very well. Like we have a friend running the. All of our accounting is done by a full stack AI native accounting firm and I think they raised like a great seed round and are making a lot of money. And then also the ghost writing thing, they basically do ghost writing as a service or there. It's sort of an agency model and they're doing super good as well. So I mean I think it depends
+
+Speaker D: a little bit on the industry.
+
+Speaker C: It depends a little bit on what your personal goals are and it depends a little bit on like the lifestyle you want to live. Yeah, I think there are like a bunch of miscellaneous considerations.
+
+Speaker A: Yeah, that makes a lot of sense. I think we're probably going to try being like an agency first. I'm not sure how it will be eventually, but I have a feeling that we'll probably reach a similar conclusion because we're also going into, like, I guess, like, the visual computing design space. And like, even now, like, clients would be like, oh, yeah, like, this picture is not like 100% to our liking, so we go back and edit it.
+
+Speaker C: So, yeah, I mean, I think it's, like, fine. I mean, at the beginning, it's always going to look a little bit like an agency because you have to, like, customize the product to, like, your first early users. But the issue is that if, like, your learnings from each client do not help you productize, then it's like, it's not scalable. And I think, like, that was a great process. The tweaks that we are making for each project, or, like, the issue that we're running into each project were so unique to the project. There is no, like, generalizable learning that makes the core product better. And so, like, it didn't make sense for us. But, like, yeah, like, you should. You guys should probably be fine doing some consulting work in the beginning because I think that's sort of inevitable. And you have, like, only of your, like, a small amount of customers at the beginning.
+
+Speaker A: Yeah, that makes sense. And also going off of that right now, me and Eric, we're thinking about, like, so we currently have, I think, three companies that we're currently working with, but we just don't know. Like, I guess, like, we want. We obviously want to scale really, really fast and get into IC and like, you know, I guess, like, make a lot of money as fast as possible, but at the same time, we kind of want to balance, like, the workload that we can even handle. So do you think, like, doing work for three companies right now is, like, a good balance of that, or do you think we should be doing, like, more? I guess, like, how much did you do in the beginning?
+
+Speaker C: I mean, it sort of depends. I'm not sure how much, like, time goes well first. How much is each customer paying you and then also how much time do you commit to, like, working with each group? Like, how involved is it versus how much of it is, like, the product doing?
+
+Speaker A: Yeah, I guess to be transparent because, like, we're just trying to, like, start out right now. We're not charging anything for them. We haven't really talked a lot about money. We basically pitched to them that we're going to do it for free, like a trial period, like you said. So we're not actually getting any money. And in terms of the time, again, we're still starting out. We actually only reached out to these three companies and got Replies from them a couple days ago. So it's very, very recent. We don't even know the workload yet. But we probably think that it would probably take, I don't know, like, I
+
+Speaker B: guess, like more than the time. Like, I guess the thing is like the way that we're thinking about it is we want to basically, like, we, we kind of don't really know this market that well. Like, I think that like, marketing is not really our strong suit. In fact, like, I feel like if I just say like I've never marketed before, like to be totally transparent.
+
+Speaker A: Yeah.
+
+Speaker B: And so the thing is, like, I feel like we want to use this opportunity to help these customers, but also like learn the marketing stack. But so like, so like more than the time, it's like more about like the. Maybe like more like the effort that we put in to these companies. And so I guess, like with that context in mind, do you think that like, you know, we should like be aggressive, try to push as like many like companies to like, sign up or like, like work with us as possible? Or do you think that we should work with like three companies? Maybe you can add on more if you want.
+
+Speaker A: No, I think that makes sense.
+
+Speaker C: I think you should try to grow the. You should try to rapidly grow the number of companies that are paying you. Because if they're unpaid, it low key, like, does not really tell you you should. Well, I think you should charge them from. You should charge them for sure. Because if they're like purely unpaid, it is like, it's like impossible to know whether or not they're just doing it as a favor or you know, like you don't know if you're actually getting, if they're actually getting value. So you should charge them. And I think the way you could structure something like this is like, okay, so like you can just like hopefully you're able to attribute like the clients that you bring them through your marketing. And then you could be like, okay, like we'll collect a fee for every customer that we bring you. And so there's only a potential risk of upside because, you know, if we don't bring you any customers, then yeah, we don't charge you any money. And then I think like, yeah, and then if you're making money, then you know that this is something that's working. And then you should just try to grow that number as fast as possible. And then eventually like things will break and you won't be able to grow anymore. And then you'll know why, like what your biggest bottleneck is and you can go solve that bottleneck. And I think that's like the correct way to do it. That's what YC says at least. They're just like, try to grow as fast as possible. When things break, that will tell you like what urgently needs to be fixed. Then you can like fix it and keep trying to pump through it. But yeah, that's my thoughts.
+
+Speaker A: I see. That makes a lot of sense. Yeah, we should definitely charge them.
+
+Speaker C: Yeah. But I think, yeah, it's like kind of scary to ask people to pay you money, but otherwise they'll just like be polite to you. And then you'll obviously be trying to learn, but then you realize that it's actually, you're not actually learning all that much because it's hard to extract any information about the value you're providing to them if you don't ask them about how much you're willing to charge.
+
+Speaker A: That makes sense.
+
+Speaker C: Like that was actually, I think the biggest issue for us. We realized that the product before we were working on Newboard wasn't actually that valuable because when people were paying us, they weren't paying us to use the product. They're paying us for us to like help them do like others. Like, yeah, they weren't paying for this on the program. And so that was like basically the kind of wall that we did.
+
+Speaker A: I see. Yeah, that makes sense.
+
+Speaker C: But I'm curious, like, I know besides marketing, like what are your guys background? I know Eric, you're at Google, but
+
+Speaker D: like sort of what are you guys?
+
+Speaker C: Backgrounds. Why are you interested in startups? Like what are you guys planning on doing if not startups?
+
+Speaker B: Yeah, so I guess like, in terms of background, like, as I was saying, I was in like the graphics field, so I was working on like vision computing. I guess, like other than that, like when I was at Google, okay, honestly, like, I didn't really get much out of Google. I was just there eating. But like, I guess like, if I did like talk about, what I did was I was like working with like LLMs, working on like in a way like, like helping to like generate like simulated, like what is it? Like data for Google and like helping to like basically like fact check them, ensuring that like the LMS are like generating like good. What is it? Like good JSON schemas. And using LMS also ensured that the output quality was also good. So yeah, that's what I did.
+
+Speaker C: Okay, gotcha. That makes sense.
+
+Speaker A: Yeah. And I guess from my background, honestly, I interned at Amazon, I interned at Google and I didn't learn a whole bunch. I think Eric did some cool work with LLMs at Google but for me it was a lot of crud. Bob Software engineering work and I kind of just realized that I don't want to do this after I graduate. I have the return offer but it just kind of seems like a dead end job to me. I don't really want to do it. And I think the startup space, we did hackathons together, we won a couple together. I think that excites me more because we're actually building something that matters and building fast. So I kind of just like the startup environment a lot better. That's kind of why we came together to like build a startup.
+
+Speaker D: Okay.
+
+Speaker C: Yeah, yeah, that makes sense. Yeah, my, my co founder Michael and he like paid it. What we're in like Seattle together. Yeah, pretty bad.
+
+Speaker B: Yeah, yeah, that makes sense.
+
+Speaker C: Yeah but I mean I think the other so yeah I would start charging money and try to like pump growth as much as possible. Like try to grow. I think them said the number like at YC they'll do this thing where it's like you'll have like a two week goal and then you'll have offsauer in three two weeks and you set one number one something hard as your goal every two weeks and then you have like a two week sprint. And I think for most companies the number should always be or like the metric you track should always be right. I think it's different in some cases. Like if you're really a consumer company, maybe like daily active is more helpful. But I think for the vast majority of B2B or like if you're working at hard tech there are probably some technical barriers that you need to get over. But I think for the majority of B2B SaaS you should just set a revenue goal. You should try to grow a number of paying customers or revenue as much as possible in two weeks sprints and then you'll learn very fast. If you're building something that people are always hopefully you're building something that solves the pains that's so painful they'd be willing to pay for you like your product even if it doesn't really fully work and you can cover the holes with your own personal labor. But I think since you guys, I mean yeah, you guys are all technical and you guys have experience like building things fast, you can iterate through a lot of ideas very fast until something or like well first if there's like a problem space that ICU you can't there or you can just continue to iterate. And I think usually in that case, I think there are a lot of ways to make money right now. I feel like you guys will be okay.
+
+Speaker A: Yeah, that makes sense. We really appreciate that.
+
+Speaker C: So what's the plan in terms of the next few months? I'm assuming you guys, they're probably going to apply for funding from these other places and then also like. Yeah, you guys like just wrapping up school or like. Yeah, what's the plan right now?
+
+Speaker A: Yeah, we're going to graduate in like three months. And I guess the plan is like, we both have full time software engineering offers that we don't want to like actually go to. So we have the offers, but the plan is to like get into one of these accelerators and even if we don't, we just want to keep building over like the next three months and over the summer to see if we can get some traction, get some money, and then, you know, if we make a certain amount or if we can get some traction, we'll just like work on this full time. I think this is like the, the goal here.
+
+Speaker C: Yeah, no, that makes no sense. Yeah, Let me know if I can be helpful in any other way. If you guys, once you guys apply to YC again, I can send your referral as well for you guys and. Or like, guys want to talk to other founders if there's a particular company that you think you could sell to. If I know the founders, I can like ping them. Yeah, just let me know how I can be helpful.
+
+Speaker B: Oh, shoot, that'd be amazing. Thank you.
+
+Speaker C: Yeah, yeah, for sure. And yeah, I would recommend applying to those other accelerators as well. I think, like, it's like once you get one offer, it becomes easier to accelerate the other offers because, like, there's some like, signaling, I think. I don't have to be like, I don't have to be the one to take like the first.
+
+Speaker B: Yeah, that makes sense.
+
+Speaker A: Yeah.
+
+Speaker C: Which, I don't know, like, VTs are kind of like. I don't really like VCs or anything, but yeah, it's like, it's a whole game. You have to play. Like, you guys will figure it out.
+
+Speaker A: It's very funny. Yeah.
+
+Speaker C: Okay. Yeah, wait, let me. I'll send you my phone number on LinkedIn if there's a. Yeah. Text me if anything else comes up.
+
+Speaker B: Oh, bet. Thank you. That's amazing. And yeah, thank you so much for talking to me and like, I feel like, you know, I learned a lot and. Yeah, yeah, I guess, like, I don't know.
+
+Speaker A: Yeah, this was really, really valuable, so really appreciate you for answering all their questions.
+
+Speaker D: Yeah, yeah.
+
+Speaker C: Actually, honestly, only last thing that I would say is that I think working at a startup has made me super, like, anti advice. Like, I don't really think that. Like, I probably. I will definitely never have enough context on these problems that you guys are facing. Like, you guys definitely more contact funnel than me. And so. And you guys are all, like, you know, smart guys. So, like, take all my advice. I take anyone's advice with a grain of salt. Like, use your own judgment. Like, yeah, it, like, changes person to person. Like, I think my advice might not be helpful at all because you guys are working at sort of like a different phase and, you know, that's the only last thing in case any of my advice ruins your life.
+
+Speaker A: No, yeah, that makes sense. Yeah. Well, I mean, I think everything you said makes sense. And, you know, obviously we're going to think about everything you said, But I, like, 100% agree with pretty much everything you said in this call, so.
+
+Speaker D: Yeah.
+
+Speaker C: All right. Yeah, let me know how it's going to be helpful. I'll catch you guys later.
+
+Speaker A: Yeah, for sure. Thank you so much once again for taking the time to call. All right, see you. Simic.
+
+Speaker B: Semiotic. Oh, what.

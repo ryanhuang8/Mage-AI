@@ -18,6 +18,9 @@ from assemblyai.streaming.v3 import (
 import tempfile
 import os
 
+from generate import generate as generate_output
+from prompts import PROMPTS
+
 # ---------------------------
 # CONFIGURATION
 # ---------------------------
@@ -155,6 +158,24 @@ def transcribe_audio():
         os.remove(tmp_path)
 
     return jsonify({"transcript": text})
+
+@app.route("/generate", methods=["POST"])
+def generate_route():
+    data = request.get_json(silent=True) or {}
+    transcript_text = data.get("transcript")
+    mode = data.get("mode")
+
+    if not transcript_text:
+        return jsonify({"error": "No transcript provided"}), 400
+    if mode not in PROMPTS:
+        return jsonify({"error": f"Invalid mode. Must be one of: {list(PROMPTS)}"}), 400
+
+    try:
+        output = generate_output(transcript_text, mode)
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+    return jsonify({"output": output})
 
 # ---------------------------
 # MAIN ENTRY

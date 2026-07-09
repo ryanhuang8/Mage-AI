@@ -3,3 +3,4 @@ python-dotenv
 assemblyai
 requests
 anthropic
+sqlalchemy

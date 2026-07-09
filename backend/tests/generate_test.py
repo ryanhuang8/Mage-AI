@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Generate formatted output from a transcript file.
-Usage: python generate_test.py <path_to_transcript.txt> --mode twitter|medical_case [--output out.txt]
+Generate formatted output from a transcript already stored in the database.
+Usage: python generate_test.py <transcript_id> --mode twitter|medical_case [--output out.txt]
 """
 
 import argparse
@@ -10,26 +10,36 @@ import sys
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 
+from db import get_session, init_db
 from generate import generate
+from models import Generation, Transcript
 from prompts import PROMPTS
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Generate formatted output from a transcript")
-    parser.add_argument("transcript_file", help="Path to the transcript .txt file")
+    parser = argparse.ArgumentParser(
+        description="Generate formatted output from a stored transcript"
+    )
+    parser.add_argument("transcript_id", type=int, help="ID of the transcript row to generate from")
     parser.add_argument("--mode", "-m", required=True, choices=list(PROMPTS), help="Output mode")
-    parser.add_argument("--output", "-o", help="Output file (default: prints to stdout only)")
+    parser.add_argument("--output", "-o", help="Also save output to this file")
     args = parser.parse_args()
 
-    if not os.path.exists(args.transcript_file):
-        print(f"ERROR: File not found → '{args.transcript_file}'")
+    init_db()
+    db = get_session()
+    transcript = db.get(Transcript, args.transcript_id)
+    if not transcript:
+        print(f"ERROR: No transcript found with id {args.transcript_id}")
         sys.exit(1)
 
-    with open(args.transcript_file, "r", encoding="utf-8") as f:
-        transcript_text = f.read()
+    print(f"Generating '{args.mode}' output for transcript_id={args.transcript_id}...")
+    result = generate(transcript.text, args.mode)
 
-    print(f"Generating '{args.mode}' output...")
-    result = generate(transcript_text, args.mode)
+    generation = Generation(transcript_id=transcript.id, mode=args.mode, output_text=result)
+    db.add(generation)
+    db.commit()
+    print(f"Saved to database → generation_id={generation.id}")
+    db.close()
 
     print("\n" + "─" * 60)
     print(result)
@@ -38,7 +48,7 @@ def main():
     if args.output:
         with open(args.output, "w", encoding="utf-8") as f:
             f.write(result)
-        print(f"\nSaved to '{args.output}'")
+        print(f"\nAlso saved to '{args.output}'")
 
 
 if __name__ == "__main__":

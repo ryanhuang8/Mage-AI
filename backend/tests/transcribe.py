@@ -5,11 +5,17 @@ Usage: python transcribe.py <path_to_audio.mp3|m4a> [--output transcript.txt]
 """
 
 import argparse
+import json
 import os
 import sys
 import time
 from dotenv import load_dotenv
 import requests
+
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
+
+from db import get_session, init_db
+from models import Recording, Transcript
 
 # ── Config ────────────────────────────────────────────────────────────────────
 load_dotenv()
@@ -115,6 +121,36 @@ def save_transcript(text: str, output_path: str) -> None:
     print(f"\nTranscript saved to '{output_path}'")
 
 
+def save_to_db(audio_path: str, result: dict, transcript_text: str) -> Transcript:
+    """Persist the recording + transcript to the shared SQLite database."""
+    init_db()
+    db = get_session()
+
+    utterances = result.get("utterances")
+    utterances_json = (
+        json.dumps([{"speaker": u["speaker"], "text": u["text"]} for u in utterances])
+        if utterances
+        else None
+    )
+
+    recording = Recording(filename=os.path.basename(audio_path), status="transcribed")
+    db.add(recording)
+    db.commit()
+
+    transcript = Transcript(
+        recording_id=recording.id,
+        text=transcript_text,
+        utterances=utterances_json,
+        assemblyai_job_id=result.get("id"),
+    )
+    db.add(transcript)
+    db.commit()
+
+    print(f"Saved to database → recording_id={recording.id}, transcript_id={transcript.id}")
+    db.close()
+    return transcript
+
+
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 def main():
@@ -147,6 +183,7 @@ def main():
             print("\n... [truncated — see output file for full transcript]")
 
         save_transcript(transcript_text, args.output)
+        save_to_db(args.audio_file, result, transcript_text)
 
     except FileNotFoundError:
         print(f"ERROR: File not found → '{args.audio_file}'")
